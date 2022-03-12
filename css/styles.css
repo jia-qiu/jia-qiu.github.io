@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(240, 250, 181);
+    font-family: sans-serif, verdana;
+    text-align: center;
+
+}
+
+h1{
+    width: 600px;
+    margin: 40px auto 0 auto;
+    font-family: "sacramento", Arial;
+    font-size: 5.4em;
+    color: hsl(120, 61%, 56%);
+    line-height: 2;
+}
+h2{
+    font-family: sans-serif, Arial;
+    font-size: 2em;
+    color: hsl(120, 61%, 56%);
+    font-weight: normal;
+}
+
+h3{
+    color:rgb(32, 150, 32);
+}
+
+
+.not_pro{
+    text-decoration: underline;
+  
+}
+
+
+.name{
+    color:darkgreen;
+}
+
+
+
+#sun{
+    width :24%;
+    position: relative;
+    right:420px;
+    top:46px;
+
+}
+
+#cloud_1{
+    width:12%;
+    position: absolute;
+    right:146px;
+    top:98px;
+
+}
+
+
+#cloud_2{
+    width:11%;
+    position: absolute;
+    right:600px;
+    top:60px;
+}
+
+#coco{
+    margin: 0 auto 0 auto;
+    width: 46%;
+    display: block;
+
+}
+
